@@ -1,6 +1,7 @@
 # Multi Layer Perceptron
 MLP written from scratch
 
+Inputs to the class mlp
 
 layers : number of nodes in each layers, 
 
